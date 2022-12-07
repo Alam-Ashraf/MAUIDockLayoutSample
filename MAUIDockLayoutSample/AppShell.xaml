@@ -7,7 +7,7 @@
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent
-        Title="Home"
+        Title="DockLayout in .Net MAUI !!"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
